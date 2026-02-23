@@ -1,0 +1,21 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json
+
+# Relatórios de Teste do Vitest
+coverage/
+
+# Builds e arquivos compilados (caso você adicione no futuro)
+dist/
+build/
+
+# Variáveis de Ambiente
+.env
+.env.local
+
+# Arquivos de sistema operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
